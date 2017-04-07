@@ -27,5 +27,4 @@ $(this).scrollLeft()则可以取到水平轴的当前卷动位置
 
 在于Email超链接的部分，我们利用网址GET的方式
 就能默认Email的寄件地址、标题、内容，使用如下：
-<a href="mailto:test@gmail.com?subject=请输入标题&body=请输入内容"></a>
 
